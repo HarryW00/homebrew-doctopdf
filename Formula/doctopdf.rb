@@ -3,8 +3,8 @@ class Doctopdf < Formula
 
   desc "Offline batch .doc/.docx to PDF converter using Microsoft Word on macOS"
   homepage "https://github.com/HarryW00/doctopdf"
-  url "https://github.com/HarryW00/doctopdf/archive/refs/tags/v2.0.4-beta.tar.gz"
-  sha256 "a0151c9896fd3ab14592aedd7fa36081abca2360cebce62875cc525ad2e46562"
+  url "https://github.com/HarryW00/doctopdf/archive/refs/tags/v2.0.5-beta.tar.gz"
+  sha256 "a86d872da8cbe2424fa901e1bcfc20e2480a9ad32a788b4449c1eddbb02ddb97"
   license "MIT"
 
   depends_on "python@3.12"
